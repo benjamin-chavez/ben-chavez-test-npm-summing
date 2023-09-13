@@ -1,3 +1,5 @@
+// index.js
+
 /**
  * @typedef {import('./lib/index.js')} Options
  */
