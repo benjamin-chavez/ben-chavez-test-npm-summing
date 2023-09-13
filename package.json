@@ -1,6 +1,6 @@
 {
   "name": "attach-metadata-properties",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "ben-chavez-test-npm-summing",
   "main": "src/index.js",
   "repository": {
@@ -40,7 +40,7 @@
   "scripts": {
     "build": "tsc --build --clean && tsc --build && type-coverage",
     "format": "remark . --frail --output --quiet && prettier . --log-level warn --write && xo --fix",
-    "prepack": "npm run build && npm run format",
+    "prepack": "npm run build && npm run format"
   },
   "prettier": {
     "bracketSpacing": false,
