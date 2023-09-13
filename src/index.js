@@ -1,6 +1,6 @@
 // src/summing.js
 
-function isWds(num1, num2) {
+function isWds() {
   // return num1 + num2;
   return 'lkdfjsldjk';
 }
