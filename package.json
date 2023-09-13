@@ -1,6 +1,6 @@
 {
-  "name": "is-bbmc",
-  "version": "2.0.0",
+  "name": "is-bmc",
+  "version": "3.0.0",
   "description": "ben-chavez-test-npm-summing",
   "main": "src/index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/benjamin-chavez/ben-chavez-test-npm-summing/issues"
   },
-  "homepage": "https://github.com/benjamin-chavez/ben-chavez-test-npm-summing#readme"
+  "homepage": "https://github.com/benjamin-chavez/ben-chavez-test-npm-summing#readme",
+  "dependencies": {
+    "unist-util-visit": "^5.0.0"
+  }
 }
