@@ -1,9 +1,8 @@
 {
   "name": "attach-metadata-properties",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "ben-chavez-test-npm-summing",
   "main": "src/index.js",
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/benjamin-chavez/ben-chavez-test-npm-summing.git"
