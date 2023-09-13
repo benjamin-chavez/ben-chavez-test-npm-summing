@@ -1,6 +1,6 @@
 {
-  "name": "is-bmc",
-  "version": "3.0.0",
+  "name": "attach-metadata-properties",
+  "version": "1.0.0",
   "description": "ben-chavez-test-npm-summing",
   "main": "src/index.js",
   "scripts": {
@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/benjamin-chavez/ben-chavez-test-npm-summing.git"
   },
-  "keywords": [
-    "WDS"
-  ],
+  "sideEffects": false,
+  "type": "module",
+  "exports": "./index.js",
   "author": "Ben Chavez",
   "license": "MIT",
   "bugs": {
