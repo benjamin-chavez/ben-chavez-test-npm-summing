@@ -1,8 +1,5 @@
-// src/summing.js
-
-function isWds() {
-  // return num1 + num2;
-  return 'lkdfjsldjk';
+function isBmc(string) {
+  return string === 'BMC';
 }
 
-module.exports = isWds;
+module.exports = isBmc;
