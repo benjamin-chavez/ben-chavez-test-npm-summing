@@ -1,0 +1,22 @@
+{
+  "name": "ben-chavez-test-npm-summing",
+  "version": "1.0.0",
+  "description": "ben-chavez-test-npm-summing",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamin-chavez/ben-chavez-test-npm-summing.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Ben Chavez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjamin-chavez/ben-chavez-test-npm-summing/issues"
+  },
+  "homepage": "https://github.com/benjamin-chavez/ben-chavez-test-npm-summing#readme"
+}
